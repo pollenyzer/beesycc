@@ -7,7 +7,7 @@ setuptools.setup(
     name="beesycc",
     version="0.0.1",
     author="Parzival",
-    author_email="app@trio.li",
+    author_email="parzival.borlinghaus@kit.edu",
     install_requires=[],
     description=(
         "Tools for using everyday objects as color calibration references."
