@@ -2,7 +2,7 @@
 
 Calibration of mobile phone images using print test strips.
 
-This *beesycc* repo was published together with the paper [ref] and offers the possibility to use print test strip for calibration of mobile phone images. The quality of this approach is discussed in the paper mentioned before.
+This *beesycc* repo was published together with the paper [Introducing Pollenyzer: An app for automatic determination of colour diversity for corbicular pollen loads](https://doi.org/10.1016/j.atech.2023.100263) and offers the possibility to use print test strip for calibration of mobile phone images. The quality of this approach is discussed in the paper mentioned before.
 
 This repo was developed in the context of analysing corbicular pollen loads. So called automatic chromatic assessment provides beekeepers with important information about the well-being of their colonies, while scientists can benefit from aggregated information about local biodiversity.
 
